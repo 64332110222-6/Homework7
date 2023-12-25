@@ -16,3 +16,8 @@
 select {
   font-size: 20px;
 }
+
+#hint{
+  color: red;
+  font-size: large;
+}
